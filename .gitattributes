@@ -1,0 +1,2 @@
+NYC_CitiBike_Challenge_clean.csv filter=lfs diff=lfs merge=lfs -text
+*.psd filter=lfs diff=lfs merge=lfs -text
