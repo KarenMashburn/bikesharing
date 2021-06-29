@@ -47,4 +47,5 @@ There is a description of the results for each visualization (7 pt)
 ## Summary
 
 I think that expanding to an new market would be benifical based on the analyzed data.  
-There is a high-level summary of the results and two additional visualizations are suggested for future analysis (5 pt)
+
+Possible additional analsys could be app usage and usage based on weahter conditions. 
